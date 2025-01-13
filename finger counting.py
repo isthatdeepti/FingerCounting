@@ -1,3 +1,5 @@
+#The function is used here and then the left right logic is used to detect all 10 fingers properly 
+#without any wrong logic
 import cv2
 import mediapipe as mp
 import numpy as np
