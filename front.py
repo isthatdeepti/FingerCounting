@@ -1,3 +1,5 @@
+# This is used to find wheather th hand is facing front or back 
+# after tht its logic can be applied iin finnger Counting
 import cv2
 import mediapipe as mp
 import numpy as np
